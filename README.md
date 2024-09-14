@@ -25,11 +25,11 @@ This is a simple Python project designed to manage a contact list via the termin
    ```bash
    git clone
 
-1. Navigate to the project directory::
+2. Navigate to the project directory::
    ```bash
    cd terminal-contact-list-manager
    
-1. Clone the repository:
+3. Clone the repository:
     ```bash
    pip install prettytable
 
